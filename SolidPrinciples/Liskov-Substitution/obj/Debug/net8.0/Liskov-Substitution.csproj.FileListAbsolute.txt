@@ -1,0 +1,14 @@
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\bin\Debug\net8.0\Liskov-Substitution.exe
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\bin\Debug\net8.0\Liskov-Substitution.deps.json
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\bin\Debug\net8.0\Liskov-Substitution.runtimeconfig.json
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\bin\Debug\net8.0\Liskov-Substitution.dll
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\bin\Debug\net8.0\Liskov-Substitution.pdb
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\obj\Debug\net8.0\Liskov-Substitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\obj\Debug\net8.0\Liskov-Substitution.AssemblyInfoInputs.cache
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\obj\Debug\net8.0\Liskov-Substitution.AssemblyInfo.cs
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\obj\Debug\net8.0\Liskov-Substitution.csproj.CoreCompileInputs.cache
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\obj\Debug\net8.0\Liskov-Substitution.dll
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\obj\Debug\net8.0\refint\Liskov-Substitution.dll
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\obj\Debug\net8.0\Liskov-Substitution.pdb
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\obj\Debug\net8.0\Liskov-Substitution.genruntimeconfig.cache
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Liskov-Substitution\obj\Debug\net8.0\ref\Liskov-Substitution.dll

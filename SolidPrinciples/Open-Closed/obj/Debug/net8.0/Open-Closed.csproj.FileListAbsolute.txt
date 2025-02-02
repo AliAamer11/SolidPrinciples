@@ -1,0 +1,14 @@
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\bin\Debug\net8.0\Open-Closed.exe
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\bin\Debug\net8.0\Open-Closed.deps.json
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\bin\Debug\net8.0\Open-Closed.runtimeconfig.json
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\bin\Debug\net8.0\Open-Closed.dll
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\bin\Debug\net8.0\Open-Closed.pdb
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\obj\Debug\net8.0\Open-Closed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\obj\Debug\net8.0\Open-Closed.AssemblyInfoInputs.cache
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\obj\Debug\net8.0\Open-Closed.AssemblyInfo.cs
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\obj\Debug\net8.0\Open-Closed.csproj.CoreCompileInputs.cache
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\obj\Debug\net8.0\Open-Closed.dll
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\obj\Debug\net8.0\refint\Open-Closed.dll
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\obj\Debug\net8.0\Open-Closed.pdb
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\obj\Debug\net8.0\Open-Closed.genruntimeconfig.cache
+C:\Users\a.ghusen\source\repos\AliAamer11\SolidPrinciples\SolidPrinciples\Open-Closed\obj\Debug\net8.0\ref\Open-Closed.dll

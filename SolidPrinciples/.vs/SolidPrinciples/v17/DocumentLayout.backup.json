@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\liskov-substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|solutionrelative:liskov-substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\liskov-substitution\\electricvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|solutionrelative:liskov-substitution\\electricvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\liskov-substitution\\gasolinevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|solutionrelative:liskov-substitution\\gasolinevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\liskov-substitution\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|solutionrelative:liskov-substitution\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\liskov-substitution\\liskov-substitution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|solutionrelative:liskov-substitution\\liskov-substitution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA04085E-3377-4A48-B7D6-33010348EA77}|Open-Closed\\Open-Closed.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\open-closed\\open-closed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA04085E-3377-4A48-B7D6-33010348EA77}|Open-Closed\\Open-Closed.csproj|solutionrelative:open-closed\\open-closed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectricVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\ElectricVehicle.cs",
+              "RelativeDocumentMoniker": "Liskov-Substitution\\ElectricVehicle.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\ElectricVehicle.cs",
+              "RelativeToolTip": "Liskov-Substitution\\ElectricVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:00:44.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GasolineVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\GasolineVehicle.cs",
+              "RelativeDocumentMoniker": "Liskov-Substitution\\GasolineVehicle.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\GasolineVehicle.cs",
+              "RelativeToolTip": "Liskov-Substitution\\GasolineVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:00:12.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Liskov-Substitution\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Vehicle.cs",
+              "RelativeToolTip": "Liskov-Substitution\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:59:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Program.cs",
+              "RelativeDocumentMoniker": "Liskov-Substitution\\Program.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Program.cs",
+              "RelativeToolTip": "Liskov-Substitution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:39:38.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Liskov-Substitution",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Liskov-Substitution.csproj",
+              "RelativeDocumentMoniker": "Liskov-Substitution\\Liskov-Substitution.csproj",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Liskov-Substitution.csproj",
+              "RelativeToolTip": "Liskov-Substitution\\Liskov-Substitution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T18:39:23.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Open-Closed",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Open-Closed\\Open-Closed.csproj",
+              "RelativeDocumentMoniker": "Open-Closed\\Open-Closed.csproj",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Open-Closed\\Open-Closed.csproj",
+              "RelativeToolTip": "Open-Closed\\Open-Closed.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T18:39:20.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
