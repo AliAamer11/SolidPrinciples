@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71B6C51E-D6D7-4A36-AE0C-70AF5FFC5693}|Dependency-Inversion\\Dependency-Inversion.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\dependency-inversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B6C51E-D6D7-4A36-AE0C-70AF5FFC5693}|Dependency-Inversion\\Dependency-Inversion.csproj|solutionrelative:dependency-inversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B6C51E-D6D7-4A36-AE0C-70AF5FFC5693}|Dependency-Inversion\\Dependency-Inversion.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\dependency-inversion\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B6C51E-D6D7-4A36-AE0C-70AF5FFC5693}|Dependency-Inversion\\Dependency-Inversion.csproj|solutionrelative:dependency-inversion\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B6C51E-D6D7-4A36-AE0C-70AF5FFC5693}|Dependency-Inversion\\Dependency-Inversion.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\dependency-inversion\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B6C51E-D6D7-4A36-AE0C-70AF5FFC5693}|Dependency-Inversion\\Dependency-Inversion.csproj|solutionrelative:dependency-inversion\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B6C51E-D6D7-4A36-AE0C-70AF5FFC5693}|Dependency-Inversion\\Dependency-Inversion.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\dependency-inversion\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B6C51E-D6D7-4A36-AE0C-70AF5FFC5693}|Dependency-Inversion\\Dependency-Inversion.csproj|solutionrelative:dependency-inversion\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\liskov-substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|solutionrelative:liskov-substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\liskov-substitution\\electricvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|solutionrelative:liskov-substitution\\electricvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\liskov-substitution\\gasolinevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|solutionrelative:liskov-substitution\\gasolinevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\liskov-substitution\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|solutionrelative:liskov-substitution\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\liskov-substitution\\liskov-substitution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB581662-44E4-4593-82A8-71CEF1B7B1D0}|Liskov-Substitution\\Liskov-Substitution.csproj|solutionrelative:liskov-substitution\\liskov-substitution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA04085E-3377-4A48-B7D6-33010348EA77}|Open-Closed\\Open-Closed.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\open-closed\\open-closed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BA04085E-3377-4A48-B7D6-33010348EA77}|Open-Closed\\Open-Closed.csproj|solutionrelative:open-closed\\open-closed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8AAAA45B-EA82-4767-886F-FCA9B7C391C9}|Interface-Segregation\\Interface-Segregation.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\solidprinciples\\solidprinciples\\interface-segregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAAA45B-EA82-4767-886F-FCA9B7C391C9}|Interface-Segregation\\Interface-Segregation.csproj|solutionrelative:interface-segregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,79 +55,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ElectricVehicle.cs",
-              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\ElectricVehicle.cs",
-              "RelativeDocumentMoniker": "Liskov-Substitution\\ElectricVehicle.cs",
-              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\ElectricVehicle.cs",
-              "RelativeToolTip": "Liskov-Substitution\\ElectricVehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Dependency-Inversion\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Dependency-Inversion\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Dependency-Inversion\\NotificationService.cs",
+              "RelativeToolTip": "Dependency-Inversion\\NotificationService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T19:00:44.093Z",
+              "WhenOpened": "2025-02-04T18:52:34.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GasolineVehicle.cs",
-              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\GasolineVehicle.cs",
-              "RelativeDocumentMoniker": "Liskov-Substitution\\GasolineVehicle.cs",
-              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\GasolineVehicle.cs",
-              "RelativeToolTip": "Liskov-Substitution\\GasolineVehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Dependency-Inversion\\EmailService.cs",
+              "RelativeDocumentMoniker": "Dependency-Inversion\\EmailService.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Dependency-Inversion\\EmailService.cs",
+              "RelativeToolTip": "Dependency-Inversion\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T19:00:12.447Z",
+              "WhenOpened": "2025-02-04T18:50:21.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Dependency-Inversion\\IMessageService.cs",
+              "RelativeDocumentMoniker": "Dependency-Inversion\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Dependency-Inversion\\IMessageService.cs",
+              "RelativeToolTip": "Dependency-Inversion\\IMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:50:00.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Program.cs",
+              "RelativeDocumentMoniker": "Liskov-Substitution\\Program.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Program.cs",
+              "RelativeToolTip": "Liskov-Substitution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:49:39.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Vehicle.cs",
               "RelativeDocumentMoniker": "Liskov-Substitution\\Vehicle.cs",
               "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Vehicle.cs",
               "RelativeToolTip": "Liskov-Substitution\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:59:41.997Z",
+              "WhenOpened": "2025-02-04T18:49:39.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Interface-Segregation\\Program.cs",
+              "RelativeDocumentMoniker": "Interface-Segregation\\Program.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Interface-Segregation\\Program.cs",
+              "RelativeToolTip": "Interface-Segregation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:49:33.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Program.cs",
-              "RelativeDocumentMoniker": "Liskov-Substitution\\Program.cs",
-              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Program.cs",
-              "RelativeToolTip": "Liskov-Substitution\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Dependency-Inversion\\Program.cs",
+              "RelativeDocumentMoniker": "Dependency-Inversion\\Program.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Dependency-Inversion\\Program.cs",
+              "RelativeToolTip": "Dependency-Inversion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:39:38.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Liskov-Substitution",
-              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Liskov-Substitution.csproj",
-              "RelativeDocumentMoniker": "Liskov-Substitution\\Liskov-Substitution.csproj",
-              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Liskov-Substitution\\Liskov-Substitution.csproj",
-              "RelativeToolTip": "Liskov-Substitution\\Liskov-Substitution.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-02T18:39:23.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Open-Closed",
-              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Open-Closed\\Open-Closed.csproj",
-              "RelativeDocumentMoniker": "Open-Closed\\Open-Closed.csproj",
-              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\SolidPrinciples\\SolidPrinciples\\Open-Closed\\Open-Closed.csproj",
-              "RelativeToolTip": "Open-Closed\\Open-Closed.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-02T18:39:20.787Z",
+              "WhenOpened": "2025-02-04T17:58:49.255Z",
               "EditorCaption": ""
             }
           ]
